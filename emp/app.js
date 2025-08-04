@@ -8,7 +8,7 @@ const employeeRoutes = require('./routes/Employees');
 connectDB();
 
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: 'https://employeemanager-1-1ftx.onrender.com',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true,
 }));
