@@ -2,8 +2,10 @@ Employee Management System
 Live Demo
 Experience the application live: https://employeemanager-1-1ftx.onrender.com/
 
+
 Project Overview
-The Employee Management System is a web-based application designed to streamline the process of managing employee records. It provides a user-friendly interface for performing essential CRUD (Create, Read, Update, Delete) operations on employee data, along with robust search functionality to quickly find specific employees.
+The Employee Management System is a web-based application designed to streamline the process of managing employee records.
+It provides a user-friendly interface for performing essential CRUD (Create, Read, Update, Delete) operations on employee data, along with robust search functionality to quickly find specific employees.
 
 Features
 Create: Easily add new employee records to the system.
